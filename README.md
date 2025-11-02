@@ -10,7 +10,7 @@ y complemento mi perfil con formación en **Administración de Sistemas Informá
 - Sistemas Linux, virtualización y redes.
 
 ⚙️ **Proyectos destacados:**
-- 🌐 [CV Web personal](https://alejandro-rodv.github.io/cv-web/)
+- 🌐 [CV Web personal](https://alejandro-rodv.github.io/CV-WEB/)
 - 🧮 Scripts de automatización de Excel / RRHH (en desarrollo)
 
 📫 **Cómo contactarme:**  
